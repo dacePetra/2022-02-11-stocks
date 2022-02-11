@@ -1,0 +1,33 @@
+h1 {
+    color: darkblue;
+    background-color: #baefba;
+    width: 100%;
+    text-align: center;
+}
+.search{
+    color: darkblue;
+    font-weight: bold;
+    font-size: large;
+    width:300px;
+    margin:0 auto;
+}
+.box-wrapper {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+.box {
+    color: darkblue;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;;
+    width: 100px;
+    height: 70px;
+    background-color: #baefba;
+    margin: 10px auto;
+}
+*{
+    box-sizing: border-box;
+}
